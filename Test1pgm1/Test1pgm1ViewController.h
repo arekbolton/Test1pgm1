@@ -10,4 +10,6 @@
 
 @interface Test1pgm1ViewController : UIViewController
 
+-(IBAction)swap:(id)sender;
+
 @end

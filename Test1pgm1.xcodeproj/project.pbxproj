@@ -461,6 +461,7 @@
 				25E4899D1897377E009F9372 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		25E4899E1897377E009F9372 /* Build configuration list for PBXNativeTarget "Test1pgm1Tests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				25E489A01897377E009F9372 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
